@@ -1,0 +1,19 @@
+{
+  "name": "randomdatafaker",
+  "version": "1.0.0",
+  "description": "Random Fake Data Generator ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TahsinAyman/randomdatafaker.git"
+  },
+  "author": "Tahsin Ayman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TahsinAyman/randomdatafaker/issues"
+  },
+  "homepage": "https://github.com/TahsinAyman/randomdatafaker#readme"
+}
